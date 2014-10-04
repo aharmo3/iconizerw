@@ -1,0 +1,218 @@
+.svg-addReview, .svg-addthis, .svg-arrow_left, .svg-arrow_left\:regular, .svg-arrow_left:hover, .svg-arrow_left\:hover, .svg-arrow_right, .svg-arrow_right\:regular, .svg-arrow_right:hover, .svg-arrow_right\:hover, .svg-checkbox, .svg-closex, .svg-closex\:regular, .svg-closex:hover, .svg-closex\:hover, .svg-edit, .svg-email, .svg-eye, .svg-eye-closed, .svg-facebook, .svg-facebook-white, .svg-favorite, .svg-favs, .svg-googleplus, .svg-home, .svg-numbercomments, .svg-photo-white, .svg-photoicon, .svg-pinterest, .svg-play, .svg-play\:regular, .svg-play:hover, .svg-play\:hover, .svg-print, .svg-readyintime, .svg-search, .svg-search\:regular, .svg-search:hover, .svg-search\:hover, .svg-seibo, .svg-test, .svg-thumbsup, .svg-thumbsup\:regular, .svg-thumbsup:disabled, .svg-thumbsup\:disabled, .svg-thumbsup:hover, .svg-thumbsup\:hover, .svg-twitter, .svg-twitter-white, .svg-unknown, .svg-video, .svg-vkonte, .svg-vkonte-white, .svg-warning, .svg-youtube {
+  background-repeat: no-repeat;
+  background-image: url(icons/icons.svg); }
+
+/*FOR FALLBACK: Can we get rid of this somehow?*/
+.no-svg .svg-addReview, .no-svg .svg-addthis, .no-svg .svg-arrow_left, .no-svg .svg-arrow_left\:regular, .no-svg .svg-arrow_left:hover, .no-svg .svg-arrow_left\:hover, .no-svg .svg-arrow_right, .no-svg .svg-arrow_right\:regular, .no-svg .svg-arrow_right:hover, .no-svg .svg-arrow_right\:hover, .no-svg .svg-checkbox, .no-svg .svg-closex, .no-svg .svg-closex\:regular, .no-svg .svg-closex:hover, .no-svg .svg-closex\:hover, .no-svg .svg-edit, .no-svg .svg-email, .no-svg .svg-eye, .no-svg .svg-eye-closed, .no-svg .svg-facebook, .no-svg .svg-facebook-white, .no-svg .svg-favorite, .no-svg .svg-favs, .no-svg .svg-googleplus, .no-svg .svg-home, .no-svg .svg-numbercomments, .no-svg .svg-photo-white, .no-svg .svg-photoicon, .no-svg .svg-pinterest, .no-svg .svg-play, .no-svg .svg-play\:regular, .no-svg .svg-play:hover, .no-svg .svg-play\:hover, .no-svg .svg-print, .no-svg .svg-readyintime, .no-svg .svg-search, .no-svg .svg-search\:regular, .no-svg .svg-search:hover, .no-svg .svg-search\:hover, .no-svg .svg-seibo, .no-svg .svg-test, .no-svg .svg-thumbsup, .no-svg .svg-thumbsup\:regular, .no-svg .svg-thumbsup:disabled, .no-svg .svg-thumbsup\:disabled, .no-svg .svg-thumbsup:hover, .no-svg .svg-thumbsup\:hover, .no-svg .svg-twitter, .no-svg .svg-twitter-white, .no-svg .svg-unknown, .no-svg .svg-video, .no-svg .svg-vkonte, .no-svg .svg-vkonte-white, .no-svg .svg-warning, .no-svg .svg-youtube {
+  background-repeat: no-repeat;
+  background-image: url(icons/icons.png); }
+
+.svg-addReview {
+  background-position: 0 0;
+  width: 32px;
+  height: 25px; }
+
+.svg-addthis {
+  background-position: 0 -25px;
+  width: 27px;
+  height: 27px; }
+
+.svg-arrow_left, .svg-arrow_left\:regular {
+  background-position: 0 -52px;
+  width: 29px;
+  height: 42px; }
+
+.svg-arrow_left:hover, .svg-arrow_left\:hover {
+  background-position: 0 -94px;
+  width: 29px;
+  height: 42px; }
+
+.svg-arrow_right, .svg-arrow_right\:regular {
+  background-position: 0 -136px;
+  width: 29px;
+  height: 42px; }
+
+.svg-arrow_right:hover, .svg-arrow_right\:hover {
+  background-position: 0 -178px;
+  width: 29px;
+  height: 42px; }
+
+.svg-checkbox {
+  background-position: 0 -220px;
+  width: 25px;
+  height: 22px; }
+
+.svg-closex, .svg-closex\:regular {
+  background-position: 0 -242px;
+  width: 12px;
+  height: 12px; }
+
+.svg-closex:hover, .svg-closex\:hover {
+  background-position: 0 -254px;
+  width: 12px;
+  height: 12px; }
+
+.svg-edit {
+  background-position: 0 -266px;
+  width: 17px;
+  height: 17px; }
+
+.svg-email {
+  background-position: 0 -283px;
+  width: 33px;
+  height: 22px; }
+
+.svg-eye {
+  background-position: 0 -305px;
+  width: 14.324px;
+  height: 10.088px; }
+
+.svg-eye-closed {
+  background-position: 0 -316px;
+  width: 14.805px;
+  height: 11.799px; }
+
+.svg-facebook {
+  background-position: 0 -328px;
+  width: 13px;
+  height: 25px; }
+
+.svg-facebook-white {
+  background-position: 0 -353px;
+  width: 10.117px;
+  height: 19.391px; }
+
+.svg-favorite {
+  background-position: 0 -373px;
+  width: 30px;
+  height: 26px; }
+
+.svg-favs {
+  background-position: 0 -399px;
+  width: 26.217px;
+  height: 23.928px; }
+
+.svg-googleplus {
+  background-position: 0 -423px;
+  width: 31px;
+  height: 26px; }
+
+.svg-home {
+  background-position: 0 -449px;
+  width: 21px;
+  height: 19px; }
+
+.svg-numbercomments {
+  background-position: 0 -468px;
+  width: 29.06px;
+  height: 23.765px; }
+
+.svg-photo-white {
+  background-position: 0 -492px;
+  width: 32px;
+  height: 23px; }
+
+.svg-photoicon {
+  background-position: 0 -515px;
+  width: 32px;
+  height: 23px; }
+
+.svg-pinterest {
+  background-position: 0 -538px;
+  width: 20px;
+  height: 25px; }
+
+.svg-play, .svg-play\:regular {
+  background-position: 0 -563px;
+  width: 47px;
+  height: 47px; }
+
+.svg-play:hover, .svg-play\:hover {
+  background-position: 0 -610px;
+  width: 47px;
+  height: 47px; }
+
+.svg-print {
+  background-position: 0 -657px;
+  width: 32px;
+  height: 28px; }
+
+.svg-readyintime {
+  background-position: 0 -685px;
+  width: 24.152px;
+  height: 22.769px; }
+
+.svg-search, .svg-search\:regular {
+  background-position: 0 -708px;
+  width: 23px;
+  height: 23px; }
+
+.svg-search:hover, .svg-search\:hover {
+  background-position: 0 -731px;
+  width: 23px;
+  height: 23px; }
+
+.svg-seibo {
+  background-position: 0 -754px;
+  width: 28.578px;
+  height: 23.523px; }
+
+.svg-test {
+  background-position: 0 -778px;
+  width: 13px;
+  height: 25px; }
+
+.svg-thumbsup, .svg-thumbsup\:regular {
+  background-position: 0 -803px;
+  width: 18px;
+  height: 19px; }
+
+.svg-thumbsup:disabled, .svg-thumbsup\:disabled {
+  background-position: 0 -822px;
+  width: 18px;
+  height: 19px; }
+
+.svg-thumbsup:hover, .svg-thumbsup\:hover {
+  background-position: 0 -841px;
+  width: 18px;
+  height: 19px; }
+
+.svg-twitter {
+  background-position: 0 -860px;
+  width: 28px;
+  height: 23px; }
+
+.svg-twitter-white {
+  background-position: 0 -883px;
+  width: 15px;
+  height: 19.063px; }
+
+.svg-unknown {
+  background-position: 0 -903px;
+  width: 17px;
+  height: 24px; }
+
+.svg-video {
+  background-position: 0 -927px;
+  width: 17px;
+  height: 12px; }
+
+.svg-vkonte {
+  background-position: 0 -939px;
+  width: 19px;
+  height: 21px; }
+
+.svg-vkonte-white {
+  background-position: 0 -960px;
+  width: 15.492px;
+  height: 18.869px; }
+
+.svg-warning {
+  background-position: 0 -979px;
+  width: 20px;
+  height: 20px; }
+
+.svg-youtube {
+  background-position: 0 -999px;
+  width: 12.922px;
+  height: 9.406px; }

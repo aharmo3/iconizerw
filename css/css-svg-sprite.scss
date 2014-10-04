@@ -1,0 +1,403 @@
+%svg {
+	background-repeat: no-repeat;
+	background-image: url(icons/icons.svg);
+}
+/*FOR FALLBACK: Can we get rid of this somehow?*/
+.no-svg 
+	%svg {
+	background-repeat: no-repeat;;
+	background-image: url(icons/icons.png);
+}
+
+
+.svg-addReview { 
+	background-position: 0 0;
+	@extend %svg;
+		width: 32px;
+		height: 25px;
+}
+
+
+
+.svg-addthis { 
+	background-position: 0 -25px;
+	@extend %svg;
+		width: 27px;
+		height: 27px;
+}
+
+
+
+.svg-arrow_left,
+.svg-arrow_left\:regular { 
+	background-position: 0 -52px;
+	@extend %svg;
+		width: 29px;
+		height: 42px;
+}
+
+
+
+.svg-arrow_left:hover,
+.svg-arrow_left\:hover { 
+	background-position: 0 -94px;
+	@extend %svg;
+		width: 29px;
+		height: 42px;
+}
+
+
+
+.svg-arrow_right,
+.svg-arrow_right\:regular { 
+	background-position: 0 -136px;
+	@extend %svg;
+		width: 29px;
+		height: 42px;
+}
+
+
+
+.svg-arrow_right:hover,
+.svg-arrow_right\:hover { 
+	background-position: 0 -178px;
+	@extend %svg;
+		width: 29px;
+		height: 42px;
+}
+
+
+
+.svg-checkbox { 
+	background-position: 0 -220px;
+	@extend %svg;
+		width: 25px;
+		height: 22px;
+}
+
+
+
+.svg-closex,
+.svg-closex\:regular { 
+	background-position: 0 -242px;
+	@extend %svg;
+		width: 12px;
+		height: 12px;
+}
+
+
+
+.svg-closex:hover,
+.svg-closex\:hover { 
+	background-position: 0 -254px;
+	@extend %svg;
+		width: 12px;
+		height: 12px;
+}
+
+
+
+.svg-edit { 
+	background-position: 0 -266px;
+	@extend %svg;
+		width: 17px;
+		height: 17px;
+}
+
+
+
+.svg-email { 
+	background-position: 0 -283px;
+	@extend %svg;
+		width: 33px;
+		height: 22px;
+}
+
+
+
+.svg-eye { 
+	background-position: 0 -305px;
+	@extend %svg;
+		width: 14.324px;
+		height: 10.088px;
+}
+
+
+
+.svg-eye-closed { 
+	background-position: 0 -316px;
+	@extend %svg;
+		width: 14.805px;
+		height: 11.799px;
+}
+
+
+
+.svg-facebook { 
+	background-position: 0 -328px;
+	@extend %svg;
+		width: 13px;
+		height: 25px;
+}
+
+
+
+.svg-facebook-white { 
+	background-position: 0 -353px;
+	@extend %svg;
+		width: 10.117px;
+		height: 19.391px;
+}
+
+
+
+.svg-favorite { 
+	background-position: 0 -373px;
+	@extend %svg;
+		width: 30px;
+		height: 26px;
+}
+
+
+
+.svg-favs { 
+	background-position: 0 -399px;
+	@extend %svg;
+		width: 26.217px;
+		height: 23.928px;
+}
+
+
+
+.svg-googleplus { 
+	background-position: 0 -423px;
+	@extend %svg;
+		width: 31px;
+		height: 26px;
+}
+
+
+
+.svg-home { 
+	background-position: 0 -449px;
+	@extend %svg;
+		width: 21px;
+		height: 19px;
+}
+
+
+
+.svg-numbercomments { 
+	background-position: 0 -468px;
+	@extend %svg;
+		width: 29.06px;
+		height: 23.765px;
+}
+
+
+
+.svg-photo-white { 
+	background-position: 0 -492px;
+	@extend %svg;
+		width: 32px;
+		height: 23px;
+}
+
+
+
+.svg-photoicon { 
+	background-position: 0 -515px;
+	@extend %svg;
+		width: 32px;
+		height: 23px;
+}
+
+
+
+.svg-pinterest { 
+	background-position: 0 -538px;
+	@extend %svg;
+		width: 20px;
+		height: 25px;
+}
+
+
+
+.svg-play,
+.svg-play\:regular { 
+	background-position: 0 -563px;
+	@extend %svg;
+		width: 47px;
+		height: 47px;
+}
+
+
+
+.svg-play:hover,
+.svg-play\:hover { 
+	background-position: 0 -610px;
+	@extend %svg;
+		width: 47px;
+		height: 47px;
+}
+
+
+
+.svg-print { 
+	background-position: 0 -657px;
+	@extend %svg;
+		width: 32px;
+		height: 28px;
+}
+
+
+
+.svg-readyintime { 
+	background-position: 0 -685px;
+	@extend %svg;
+		width: 24.152px;
+		height: 22.769px;
+}
+
+
+
+.svg-search,
+.svg-search\:regular { 
+	background-position: 0 -708px;
+	@extend %svg;
+		width: 23px;
+		height: 23px;
+}
+
+
+
+.svg-search:hover,
+.svg-search\:hover { 
+	background-position: 0 -731px;
+	@extend %svg;
+		width: 23px;
+		height: 23px;
+}
+
+
+
+.svg-seibo { 
+	background-position: 0 -754px;
+	@extend %svg;
+		width: 28.578px;
+		height: 23.523px;
+}
+
+
+
+.svg-test { 
+	background-position: 0 -778px;
+	@extend %svg;
+		width: 13px;
+		height: 25px;
+}
+
+
+
+.svg-thumbsup,
+.svg-thumbsup\:regular { 
+	background-position: 0 -803px;
+	@extend %svg;
+		width: 18px;
+		height: 19px;
+}
+
+
+
+.svg-thumbsup:disabled,
+.svg-thumbsup\:disabled { 
+	background-position: 0 -822px;
+	@extend %svg;
+		width: 18px;
+		height: 19px;
+}
+
+
+
+.svg-thumbsup:hover,
+.svg-thumbsup\:hover { 
+	background-position: 0 -841px;
+	@extend %svg;
+		width: 18px;
+		height: 19px;
+}
+
+
+
+.svg-twitter { 
+	background-position: 0 -860px;
+	@extend %svg;
+		width: 28px;
+		height: 23px;
+}
+
+
+
+.svg-twitter-white { 
+	background-position: 0 -883px;
+	@extend %svg;
+		width: 15px;
+		height: 19.063px;
+}
+
+
+
+.svg-unknown { 
+	background-position: 0 -903px;
+	@extend %svg;
+		width: 17px;
+		height: 24px;
+}
+
+
+
+.svg-video { 
+	background-position: 0 -927px;
+	@extend %svg;
+		width: 17px;
+		height: 12px;
+}
+
+
+
+.svg-vkonte { 
+	background-position: 0 -939px;
+	@extend %svg;
+		width: 19px;
+		height: 21px;
+}
+
+
+
+.svg-vkonte-white { 
+	background-position: 0 -960px;
+	@extend %svg;
+		width: 15.492px;
+		height: 18.869px;
+}
+
+
+
+.svg-warning { 
+	background-position: 0 -979px;
+	@extend %svg;
+		width: 20px;
+		height: 20px;
+}
+
+
+
+.svg-youtube { 
+	background-position: 0 -999px;
+	@extend %svg;
+		width: 12.922px;
+		height: 9.405999999999999px;
+}
+
+
+

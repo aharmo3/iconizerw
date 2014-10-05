@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="66 66 25 25" enable-background="new 66 66 25 25" xml:space="preserve">
+<g>
+	<circle fill="#FAA21B" cx="78.5" cy="78.5" r="12.5"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="78.5" y1="89.7805" x2="78.5" y2="67.2188" gradientTransform="matrix(1 0 0 -1 0 157)">
+		<stop  offset="0" style="stop-color:#F6B918"/>
+		<stop  offset="1" style="stop-color:#FCCC12"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M78.5,79c-4.3,0-8-2.4-9.9-5.9c-0.9,1.6-1.4,3.4-1.4,5.4c0,6.2,5,11.3,11.3,11.3s11.3-5,11.3-11.3
+		c0-2-0.5-3.8-1.4-5.4C86.5,76.6,82.8,79,78.5,79z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="78.5" y1="100.554" x2="78.5" y2="77.9923" gradientTransform="matrix(1 0 0 -1 0 157)">
+		<stop  offset="0" style="stop-color:#FFFEF1"/>
+		<stop  offset="0.305" style="stop-color:#FFFDEF"/>
+		<stop  offset="0.4451" style="stop-color:#FFFAE9"/>
+		<stop  offset="0.5515" style="stop-color:#FFF7DD"/>
+		<stop  offset="0.6409" style="stop-color:#FFF2CF"/>
+		<stop  offset="0.7196" style="stop-color:#FFEDBB"/>
+		<stop  offset="0.7908" style="stop-color:#FFE7A4"/>
+		<stop  offset="0.8564" style="stop-color:#FEE088"/>
+		<stop  offset="0.9175" style="stop-color:#FDD866"/>
+		<stop  offset="0.973" style="stop-color:#FCD036"/>
+		<stop  offset="1" style="stop-color:#FCCC12"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" d="M78.5,79c4.3,0,8-2.4,9.9-5.9c-1.9-3.5-5.6-5.9-9.9-5.9s-8,2.4-9.9,5.9C70.5,76.6,74.2,79,78.5,79z"
+		/>
+	<path fill="#010101" d="M78.5,84.8c-3.6,0-6.7-1.4-8.7-3.6c1.3,3.4,4.7,5.8,8.7,5.8s7.4-2.4,8.7-5.8C85.2,83.4,82.1,84.8,78.5,84.8
+		z"/>
+	<g>
+		<ellipse fill="#010101" cx="74.3" cy="77.2" rx="1.1" ry="2.7"/>
+		<ellipse fill="#010101" cx="82.7" cy="77.2" rx="1.1" ry="2.7"/>
+	</g>
+</g>
+</svg>

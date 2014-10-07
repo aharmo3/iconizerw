@@ -347,8 +347,17 @@
 
 
 
-.svg-tool-addReview { 
+.svg-stars { 
 	background-position: 0 -881px;
+	@extend %svg;
+		width: 151.2px;
+		height: 29.6px;
+}
+
+
+
+.svg-tool-addReview { 
+	background-position: 0 -911px;
 	@extend %svg;
 		width: 32px;
 		height: 25px;
@@ -357,7 +366,7 @@
 
 
 .svg-tool-addthis { 
-	background-position: 0 -906px;
+	background-position: 0 -936px;
 	@extend %svg;
 		width: 27px;
 		height: 27px;
@@ -366,7 +375,7 @@
 
 
 .svg-tool-email { 
-	background-position: 0 -933px;
+	background-position: 0 -963px;
 	@extend %svg;
 		width: 33px;
 		height: 22px;
@@ -375,7 +384,7 @@
 
 
 .svg-tool-facebook { 
-	background-position: 0 -955px;
+	background-position: 0 -985px;
 	@extend %svg;
 		width: 13px;
 		height: 25px;
@@ -384,7 +393,7 @@
 
 
 .svg-tool-favorite { 
-	background-position: 0 -980px;
+	background-position: 0 -1010px;
 	@extend %svg;
 		width: 30px;
 		height: 26px;
@@ -393,7 +402,7 @@
 
 
 .svg-tool-googleplus { 
-	background-position: 0 -1006px;
+	background-position: 0 -1036px;
 	@extend %svg;
 		width: 31px;
 		height: 26px;
@@ -402,7 +411,7 @@
 
 
 .svg-tool-photoicon { 
-	background-position: 0 -1032px;
+	background-position: 0 -1062px;
 	@extend %svg;
 		width: 32px;
 		height: 23px;
@@ -411,7 +420,7 @@
 
 
 .svg-tool-pinterest { 
-	background-position: 0 -1055px;
+	background-position: 0 -1085px;
 	@extend %svg;
 		width: 20px;
 		height: 25px;
@@ -420,7 +429,7 @@
 
 
 .svg-tool-print { 
-	background-position: 0 -1080px;
+	background-position: 0 -1110px;
 	@extend %svg;
 		width: 32px;
 		height: 28px;
@@ -429,7 +438,7 @@
 
 
 .svg-tool-seibo { 
-	background-position: 0 -1108px;
+	background-position: 0 -1138px;
 	@extend %svg;
 		width: 28.578px;
 		height: 23.523px;
@@ -438,7 +447,7 @@
 
 
 .svg-tool-twitter { 
-	background-position: 0 -1132px;
+	background-position: 0 -1162px;
 	@extend %svg;
 		width: 28px;
 		height: 23px;
@@ -447,7 +456,7 @@
 
 
 .svg-tool-unknown { 
-	background-position: 0 -1155px;
+	background-position: 0 -1185px;
 	@extend %svg;
 		width: 17px;
 		height: 24px;
@@ -456,7 +465,7 @@
 
 
 .svg-tool-vkonte { 
-	background-position: 0 -1179px;
+	background-position: 0 -1209px;
 	@extend %svg;
 		width: 19px;
 		height: 21px;

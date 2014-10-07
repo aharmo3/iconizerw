@@ -1,9 +1,9 @@
-.svg-arrow_left, .svg-arrow_left\:regular, .svg-arrow_left:hover, .svg-arrow_left\:hover, .svg-arrow_right, .svg-arrow_right\:regular, .svg-arrow_right:hover, .svg-arrow_right\:hover, .svg-closex, .svg-closex\:regular, .svg-closex:hover, .svg-closex\:hover, .svg-edit, .svg-emot-blush, .svg-emot-cry, .svg-emot-frown, .svg-emot-glasses, .svg-emot-happy, .svg-emot-laugh, .svg-emot-love, .svg-emot-wink, .svg-eye, .svg-eye-closed, .svg-info-favs, .svg-info-home, .svg-info-numbercomments, .svg-info-photo, .svg-info-readyintime, .svg-info-search, .svg-info-search\:regular, .svg-info-search:hover, .svg-info-search\:hover, .svg-info-thumbsup, .svg-info-thumbsup\:regular, .svg-info-thumbsup:disabled, .svg-info-thumbsup\:disabled, .svg-info-thumbsup:hover, .svg-info-thumbsup\:hover, .svg-info-video, .svg-notif-checkbox, .svg-notif-warning, .svg-play, .svg-play\:regular, .svg-play:hover, .svg-play\:hover, .svg-social-facebook, .svg-social-twitter, .svg-social-vkonte, .svg-social-youtube, .svg-tool-addReview, .svg-tool-addthis, .svg-tool-email, .svg-tool-facebook, .svg-tool-favorite, .svg-tool-googleplus, .svg-tool-photoicon, .svg-tool-pinterest, .svg-tool-print, .svg-tool-seibo, .svg-tool-twitter, .svg-tool-unknown, .svg-tool-vkonte {
+.svg-arrow_left, .svg-arrow_left\:regular, .svg-arrow_left:hover, .svg-arrow_left\:hover, .svg-arrow_right, .svg-arrow_right\:regular, .svg-arrow_right:hover, .svg-arrow_right\:hover, .svg-closex, .svg-closex\:regular, .svg-closex:hover, .svg-closex\:hover, .svg-edit, .svg-emot-blush, .svg-emot-cry, .svg-emot-frown, .svg-emot-glasses, .svg-emot-happy, .svg-emot-laugh, .svg-emot-love, .svg-emot-wink, .svg-eye, .svg-eye-closed, .svg-info-favs, .svg-info-home, .svg-info-numbercomments, .svg-info-photo, .svg-info-readyintime, .svg-info-search, .svg-info-search\:regular, .svg-info-search:hover, .svg-info-search\:hover, .svg-info-thumbsup, .svg-info-thumbsup\:regular, .svg-info-thumbsup:disabled, .svg-info-thumbsup\:disabled, .svg-info-thumbsup:hover, .svg-info-thumbsup\:hover, .svg-info-video, .svg-notif-checkbox, .svg-notif-warning, .svg-play, .svg-play\:regular, .svg-play:hover, .svg-play\:hover, .svg-social-facebook, .svg-social-twitter, .svg-social-vkonte, .svg-social-youtube, .svg-stars, .svg-tool-addReview, .svg-tool-addthis, .svg-tool-email, .svg-tool-facebook, .svg-tool-favorite, .svg-tool-googleplus, .svg-tool-photoicon, .svg-tool-pinterest, .svg-tool-print, .svg-tool-seibo, .svg-tool-twitter, .svg-tool-unknown, .svg-tool-vkonte {
   background-repeat: no-repeat;
   background-image: url(icons/icons.svg); }
 
 /*FOR FALLBACK: Can we get rid of this somehow?*/
-.no-svg .svg-arrow_left, .no-svg .svg-arrow_left\:regular, .no-svg .svg-arrow_left:hover, .no-svg .svg-arrow_left\:hover, .no-svg .svg-arrow_right, .no-svg .svg-arrow_right\:regular, .no-svg .svg-arrow_right:hover, .no-svg .svg-arrow_right\:hover, .no-svg .svg-closex, .no-svg .svg-closex\:regular, .no-svg .svg-closex:hover, .no-svg .svg-closex\:hover, .no-svg .svg-edit, .no-svg .svg-emot-blush, .no-svg .svg-emot-cry, .no-svg .svg-emot-frown, .no-svg .svg-emot-glasses, .no-svg .svg-emot-happy, .no-svg .svg-emot-laugh, .no-svg .svg-emot-love, .no-svg .svg-emot-wink, .no-svg .svg-eye, .no-svg .svg-eye-closed, .no-svg .svg-info-favs, .no-svg .svg-info-home, .no-svg .svg-info-numbercomments, .no-svg .svg-info-photo, .no-svg .svg-info-readyintime, .no-svg .svg-info-search, .no-svg .svg-info-search\:regular, .no-svg .svg-info-search:hover, .no-svg .svg-info-search\:hover, .no-svg .svg-info-thumbsup, .no-svg .svg-info-thumbsup\:regular, .no-svg .svg-info-thumbsup:disabled, .no-svg .svg-info-thumbsup\:disabled, .no-svg .svg-info-thumbsup:hover, .no-svg .svg-info-thumbsup\:hover, .no-svg .svg-info-video, .no-svg .svg-notif-checkbox, .no-svg .svg-notif-warning, .no-svg .svg-play, .no-svg .svg-play\:regular, .no-svg .svg-play:hover, .no-svg .svg-play\:hover, .no-svg .svg-social-facebook, .no-svg .svg-social-twitter, .no-svg .svg-social-vkonte, .no-svg .svg-social-youtube, .no-svg .svg-tool-addReview, .no-svg .svg-tool-addthis, .no-svg .svg-tool-email, .no-svg .svg-tool-facebook, .no-svg .svg-tool-favorite, .no-svg .svg-tool-googleplus, .no-svg .svg-tool-photoicon, .no-svg .svg-tool-pinterest, .no-svg .svg-tool-print, .no-svg .svg-tool-seibo, .no-svg .svg-tool-twitter, .no-svg .svg-tool-unknown, .no-svg .svg-tool-vkonte {
+.no-svg .svg-arrow_left, .no-svg .svg-arrow_left\:regular, .no-svg .svg-arrow_left:hover, .no-svg .svg-arrow_left\:hover, .no-svg .svg-arrow_right, .no-svg .svg-arrow_right\:regular, .no-svg .svg-arrow_right:hover, .no-svg .svg-arrow_right\:hover, .no-svg .svg-closex, .no-svg .svg-closex\:regular, .no-svg .svg-closex:hover, .no-svg .svg-closex\:hover, .no-svg .svg-edit, .no-svg .svg-emot-blush, .no-svg .svg-emot-cry, .no-svg .svg-emot-frown, .no-svg .svg-emot-glasses, .no-svg .svg-emot-happy, .no-svg .svg-emot-laugh, .no-svg .svg-emot-love, .no-svg .svg-emot-wink, .no-svg .svg-eye, .no-svg .svg-eye-closed, .no-svg .svg-info-favs, .no-svg .svg-info-home, .no-svg .svg-info-numbercomments, .no-svg .svg-info-photo, .no-svg .svg-info-readyintime, .no-svg .svg-info-search, .no-svg .svg-info-search\:regular, .no-svg .svg-info-search:hover, .no-svg .svg-info-search\:hover, .no-svg .svg-info-thumbsup, .no-svg .svg-info-thumbsup\:regular, .no-svg .svg-info-thumbsup:disabled, .no-svg .svg-info-thumbsup\:disabled, .no-svg .svg-info-thumbsup:hover, .no-svg .svg-info-thumbsup\:hover, .no-svg .svg-info-video, .no-svg .svg-notif-checkbox, .no-svg .svg-notif-warning, .no-svg .svg-play, .no-svg .svg-play\:regular, .no-svg .svg-play:hover, .no-svg .svg-play\:hover, .no-svg .svg-social-facebook, .no-svg .svg-social-twitter, .no-svg .svg-social-vkonte, .no-svg .svg-social-youtube, .no-svg .svg-stars, .no-svg .svg-tool-addReview, .no-svg .svg-tool-addthis, .no-svg .svg-tool-email, .no-svg .svg-tool-facebook, .no-svg .svg-tool-favorite, .no-svg .svg-tool-googleplus, .no-svg .svg-tool-photoicon, .no-svg .svg-tool-pinterest, .no-svg .svg-tool-print, .no-svg .svg-tool-seibo, .no-svg .svg-tool-twitter, .no-svg .svg-tool-unknown, .no-svg .svg-tool-vkonte {
   background-repeat: no-repeat;
   background-image: url(icons/icons.png); }
 
@@ -187,67 +187,72 @@
   width: 12.922px;
   height: 9.406px; }
 
-.svg-tool-addReview {
+.svg-stars {
   background-position: 0 -881px;
+  width: 151.2px;
+  height: 29.6px; }
+
+.svg-tool-addReview {
+  background-position: 0 -911px;
   width: 32px;
   height: 25px; }
 
 .svg-tool-addthis {
-  background-position: 0 -906px;
+  background-position: 0 -936px;
   width: 27px;
   height: 27px; }
 
 .svg-tool-email {
-  background-position: 0 -933px;
+  background-position: 0 -963px;
   width: 33px;
   height: 22px; }
 
 .svg-tool-facebook {
-  background-position: 0 -955px;
+  background-position: 0 -985px;
   width: 13px;
   height: 25px; }
 
 .svg-tool-favorite {
-  background-position: 0 -980px;
+  background-position: 0 -1010px;
   width: 30px;
   height: 26px; }
 
 .svg-tool-googleplus {
-  background-position: 0 -1006px;
+  background-position: 0 -1036px;
   width: 31px;
   height: 26px; }
 
 .svg-tool-photoicon {
-  background-position: 0 -1032px;
+  background-position: 0 -1062px;
   width: 32px;
   height: 23px; }
 
 .svg-tool-pinterest {
-  background-position: 0 -1055px;
+  background-position: 0 -1085px;
   width: 20px;
   height: 25px; }
 
 .svg-tool-print {
-  background-position: 0 -1080px;
+  background-position: 0 -1110px;
   width: 32px;
   height: 28px; }
 
 .svg-tool-seibo {
-  background-position: 0 -1108px;
+  background-position: 0 -1138px;
   width: 28.578px;
   height: 23.523px; }
 
 .svg-tool-twitter {
-  background-position: 0 -1132px;
+  background-position: 0 -1162px;
   width: 28px;
   height: 23px; }
 
 .svg-tool-unknown {
-  background-position: 0 -1155px;
+  background-position: 0 -1185px;
   width: 17px;
   height: 24px; }
 
 .svg-tool-vkonte {
-  background-position: 0 -1179px;
+  background-position: 0 -1209px;
   width: 19px;
   height: 21px; }
